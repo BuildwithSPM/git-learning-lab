@@ -1,8 +1,6 @@
-# Git Learning Lab
+## Learning Branches
 
-This repository is part of AI Architect University (AAU).
-
-Learning professional Git and GitHub workflows.
+This section was added in the feature-readme branch.
 
 Author: Muchu Siva Prasad
 GitHub: BuildwithSPM
